@@ -1,9 +1,9 @@
 {
-    "description": "NativeScript Application",
-    "readme": "NativeScript Simple Mobile App",
+    "description": "NativeScript Simple Application",
+    "readme": "NativeScript Simple Application",
     "repository": "https://github.com/denebtech/NativeScript-Simple-Mobile-App",
     "nativescript": {
-        "id": "com.shiv19.setdemo",
+        "id": "com.denebtech.demo",
         "tns-android": {
             "version": "3.3.1"
         },
@@ -16,7 +16,6 @@
         "nativescript-theme-core": "1.0.4",
         "tns-core-modules": "3.3.0"
     },
-    "author": "denebtech",
     "devDependencies": {
         "babel-traverse": "6.26.0",
         "babel-types": "6.26.0",
